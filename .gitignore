@@ -1,0 +1,13 @@
+node_modules/
+dist/
+dist-ssr/
+*.local
+.vscode/
+
+*.pem
+
+*.pem
+
+*.pem
+.env
+node_modules/
