@@ -10,7 +10,7 @@ router.post('/chat', async (req, res) => {
 
     const result = await processQuery(message);
 
-    // Save history to MongoDB if connected
+    // Save history to MongoDB if connectedsdsdsd
     try {
       await ChatLog.create({
         userQuery: message,
